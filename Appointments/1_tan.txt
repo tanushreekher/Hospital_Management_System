@@ -1,0 +1,7 @@
+Appointment Details:
+___________________________________Appointment Id: 1 
+Patient Id: 1
+Patient Name: tan
+Doctor Id: 101
+Doctor Name: Ayush
+Appointment Date: 2025-11-02
